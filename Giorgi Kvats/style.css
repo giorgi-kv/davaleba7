@@ -1,0 +1,173 @@
+@import url("//cdn.web-fonts.ge/fonts/archyedt-bold/css/archyedt-bold.min.css");
+
+.heade{
+background-color: white;
+
+}
+
+.ul1 ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(250, 250, 250);
+  overflow: hidden;
+}
+li{
+  display: inline;
+  float: right;
+}
+
+.search{
+  font-size: 28px;
+  color: black;
+}
+
+.ul1 li a {
+  display: block;
+  color: gray;
+  text-align: center;
+  margin: 30px 25px;
+  padding: 20px 25px;
+  font-weight: 600;
+  text-decoration: none;
+  font-family: cursive;
+  font-size: 20px;
+  }
+.ul1 li a:hover{
+  background-color: rgb(242, 242, 242);
+}
+
+ .surati1 {
+     width: 1100px;
+     padding: 45px 200px;
+ }
+
+.div1{
+  display: block;
+  font-family:cursive;
+  margin: 50px 170px;
+  font-size: 40px;
+  font-weight: 800px;
+  color: gray;
+}
+
+.nav3{
+  padding: 50px 170px;
+}
+.div2 img{
+  width: 360px;
+  height: 210px;
+}
+.div2{
+  display: flex;
+  gap: 40px;
+}
+.div2 div{
+  box-shadow: 0px 2px 2px 2px gray;
+}
+
+.st{
+  text-align: left;
+  color: gray;
+  font-size: 25px;
+  font-family: "ArchyEDT-Bold", sans-serif;
+  margin: 0px 20px;
+}
+
+.sl{
+  text-align: start;
+  color: rgb(146, 146, 146);
+  font-size: 12px;
+  margin: 10px 20px;
+}
+
+.nav3 a{
+  text-decoration: none;
+  font-weight:900;
+  font-size: 20px;
+  margin: 25px 20px;
+  color:rgb(146, 146, 146);
+  float: right;
+}
+
+.ld {
+  text-align: center;
+  font-size: 200px;
+  font-size: 30px;
+}
+
+.ld a{
+  color: rgb(146, 146, 146);
+  font-family:monospace;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+  background-color: black;
+  height: 200px;
+  max-width: 2000px;
+}
+
+.div10{
+  text-align: left;
+  color:rgb(202, 202, 202);
+  font-weight: bold;
+  font-size: 16px;
+  font-family:serif;
+}
+.div7{
+  font-size: 30px;
+}
+.div8{
+  color: rgb(202, 202, 202);
+  font-weight: bold;
+  font-size: 16px;
+  font-family: serif;
+}
+.div9{
+  color: rgb(202, 202, 202);
+  font-weight: bold;
+  font-size: 16px;
+  font-family: serif;
+}
+.nav2{
+  display: inline;
+
+}
+.nav2 li{
+  display: block;
+  float: left;
+  text-align: left;
+   padding: 50px 90px;
+}
+.div7 li{
+   padding: 50px 20px;
+}
+.fc{
+  color:cornflowerblue;
+}
+.yt{
+  color: red;
+}
+.ds{
+  color:mediumslateblue;
+}
+.in{
+  color: purple;
+}
